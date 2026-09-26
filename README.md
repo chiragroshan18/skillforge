@@ -81,4 +81,4 @@ skillforge/
 
 ---
 
-> ℹ️ **Note:** This is an educational mini-project demo. All assessment attempt data is stored in runtime Python memory and resets when the Flask server restarts.
+
